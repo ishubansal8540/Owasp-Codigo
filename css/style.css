@@ -186,7 +186,7 @@ button:focus{
 	background: #d65106;
 	color: #ffffff;
 }
-.top-navbar .navbar-light .navbar-nav .nav-item.active .nav-link{
+.top-navbar .navbar-light .navbar-nav .nav-item .active .nav-link{
 	background: #d65106;
 	color: #ffffff;
 	border-radius: 4px;
@@ -208,7 +208,7 @@ button:focus{
 	color: #ffffff;
 }
 .navbar-light .navbar-toggler:hover{
-	background: #d65106;
+    background: #d65106;
 }
 
 /*------------------------------------------------------------------
@@ -404,7 +404,7 @@ button:focus{
 }
 
 .inner-menu-box{}
-.inner-menu-box .nav-pills .nav-link.active{
+.inner-menu-box .nav-pills .nav-link .active{
 	background: #d65106;
 }
 .inner-menu-box .nav-pills .nav-link{
